@@ -1,9 +1,0 @@
-{
-  "number": 42,
-  "string":"Строка",
-  "boolean":false,
-  "object":{
-    "mass": [1,2,3,4]
-  },
-  "null":null
-}
